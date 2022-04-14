@@ -1,0 +1,74 @@
+[
+    {
+        "payload": {
+            "app": {
+                "users": {},
+                "language": {},
+                "role": {},
+                "title": {
+                    "system-announcements": "",
+                    "report-details": ""
+                },
+                "settings": {},
+                "address": {},
+                "auth": {},
+                "reports": {
+                    "type": "",
+                    "status": "",
+                    "report-deleted-successfuly": "",
+                    "report-delete-falild": "",
+                    "": ""
+                },
+                "audience": {
+                    "description": "",
+                    "name": "",
+                    "information": "",
+                    "timezone-rule": {
+                        "state": "",
+                        "country": "",
+                        "title": "",
+                    },
+                    "geo-rule": {
+                        "state": "",
+                        "country": "",
+                        "title": "",
+                    },
+                    "new-audience-added-successfuly": "",
+                    "select-rule-hint": "",
+                },
+                "announcement": {
+                    "add-new-announcements": "",
+                    "new-announcement-added-successfuly": "",
+                    "announcement-updated-successfuly": "",
+                    "announcement-deleted-successfuly": "",
+                    "announcement-delete-falild": "",
+                    "preview": "",
+                    "announcement-date-range": "",
+                    "start-date": "",
+                    "audience": "",
+                    "description": "",
+                    "announcement-background": "",
+                    "border-raduce": "",
+                    "can-closed": "",
+                    "can-closed-hint": "Determine if the Announcement can be closed ",
+                    "text": "",
+                    "duration": "",
+                    "timer": {
+                        "title": "",
+                        "background": "",
+                        "font-color": "",
+                        "elements": "",
+                        "seconds": "",
+                        "minutes": "",
+                        "hours": "",
+                        "days": ""
+                    }
+                },
+                "datatable": {
+                    "create-announcement": "",
+                    "create-audience": ""
+                }
+            }
+        }
+    }
+]
